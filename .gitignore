@@ -27,6 +27,62 @@ mysql_codes
 
 
 
+# default ignore from numpy
+anuj/
+anuj_requirements.txt
+
+
+# chatgpt
+# Virtual environments
+.venv/
+venv/
+env/
+anuj/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Test and type checker caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+
+
+
+
+
 
 
 anuj/
