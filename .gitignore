@@ -77,6 +77,9 @@ pip-wheel-metadata/
 .DS_Store
 Thumbs.db
 
+# important files
+senstive_files/
+
 
 
 
